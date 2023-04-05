@@ -1,8 +1,6 @@
 # RobotPi
 Raspberrty PI 4, Python3, GPIO/I2C - Semi-autonomous robot car project, controlled using a Xbox Bluetooth Joypad
 
-This project requires a RaspberryPi ARM Processor.
-
 Built orignally on a RPI4, using Python 3.
 
 Remote control via a bluetooth Xbox controller, allows switching from manual to semi-autonomous mode.
