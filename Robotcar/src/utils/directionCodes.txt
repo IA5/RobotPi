@@ -1,0 +1,23 @@
+
+return 'FF'
+return 'RR' 
+return 'RR'
+return 'BB'
+return 'FBL'
+return 'FB'
+return 'FR'
+return 'FLR'
+return 'F'
+return 'BL'
+return 'BLR'
+return 'RL'   
+return 'L'   
+return 'FL'    
+return 'BR'     
+return 'R'    
+return 'RBF'   
+return 'B'   
+return 'FBLR'
+return 'FREE'
+
+              
